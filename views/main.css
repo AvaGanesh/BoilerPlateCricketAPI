@@ -1,0 +1,10 @@
+div{
+        position:fixed;
+    	top: 10%;
+    	left:8%;
+    	padding:5px;
+}
+.form-control{
+            padding:10px;	
+            margin:10px;
+}
